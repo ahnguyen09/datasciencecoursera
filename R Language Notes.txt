@@ -1,0 +1,4 @@
+R Language Notes
+-install.packages("Name of Package"), or install.packages(c("Name of Package","Name of Package","Name of Package")) 
+-library.(Name of Package) no qoute. This loads the packages for use
+-find.package("Name of Package") used to check if a package is installed
